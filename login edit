@@ -1,0 +1,6 @@
+class Code{
+public static void main(String [] args){
+int num=10;
+sysout(num);
+   }
+}
